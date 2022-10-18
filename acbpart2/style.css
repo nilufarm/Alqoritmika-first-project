@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+    }
+    .head{
+        width:400px;
+        display:flex;
+        justify-content: space-between;
+        gap:10px;
+        margin-top:97px;
+        margin-left:9vw;
+    }
+    
+    .head div p{
+       
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* or 23px */
+    display: inline-block;
+    color: #000000;
+    }
